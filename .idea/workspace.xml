@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c010df86-3b7e-49de-820d-f8931f07534f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Enote-System.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enotes_system/Enote/templates/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enotes_system/Enote/templates/addNotes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enotes_system/Enote/templates/changePassword.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enotes_system/Enote/templates/dashboard.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enotes_system/Enote/templates/editNotes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enotes_system/Enote/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enotes_system/Enote/templates/navbar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enotes_system/Enote/templates/profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enotes_system/Enote/templates/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enotes_system/Enote/templates/user_login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enotes_system/Enote/templates/usernavbar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enotes_system/Enote/templates/viewNotes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enotes_system/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="c010df86-3b7e-49de-820d-f8931f07534f" name="Changes" comment="Cool stuff" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -141,7 +120,20 @@
       <option name="presentableId" value="Default" />
       <updated>1727142607369</updated>
     </task>
+    <task id="LOCAL-00001" summary="Cool stuff">
+      <option name="closed" value="true" />
+      <created>1728351948412</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728351948414</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Cool stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cool stuff" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
